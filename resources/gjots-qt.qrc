@@ -1,31 +1,31 @@
 <RCC>
   <qresource prefix="control">
-    <file>images/document-print.svg</file>
-    <file>images/document-properties.svg</file>
-    <file>images/document-save.svg</file>
-    <file>images/edit-cut.svg</file>
-    <file>images/edit-find.svg</file>
-    <file>images/edit-paste.svg</file>
-    <file>images/edit-copy.svg</file>
-    <file>images/view-refresh.svg</file>
-    <file>images/timer.png</file>
-    <file>images/spanner-hammer.svg</file>
-    <file>images/view_sort_descending.svg</file>
+    <file>document-print.svg</file>
+    <file>document-properties.svg</file>
+    <file>document-save.svg</file>
+    <file>edit-cut.svg</file>
+    <file>edit-find.svg</file>
+    <file>edit-paste.svg</file>
+    <file>edit-copy.svg</file>
+    <file>view-refresh.svg</file>
+    <file>timer.png</file>
+    <file>spanner-hammer.svg</file>
+    <file>view_sort_descending.svg</file>
   </qresource>
   <qresource prefix="all">
-    <file>images/gtk-quit.svg</file>
+    <file>gtk-quit.svg</file>
   </qresource>
   <qresource prefix="actiontoolbar">
-    <file>images/go-down.svg</file>
-    <file>images/sort_descending.svg</file>
-    <file>images/go-up.svg</file>
-    <file>images/go-previous.svg</file>
-    <file>images/go-next.svg</file>
-    <file>images/gjots2-hide-all.png</file>
-    <file>images/gjots2-split-item.png</file>
-    <file>images/gjots2-show-all.png</file>
-    <file>images/gjots2-new-page.png</file>
-    <file>images/gjots2-new-child.png</file>
-    <file>images/gjots2-merge-items.png</file>
+    <file>go-down.svg</file>
+    <file>sort_descending.svg</file>
+    <file>go-up.svg</file>
+    <file>go-previous.svg</file>
+    <file>go-next.svg</file>
+    <file>gjots2-hide-all.png</file>
+    <file>gjots2-split-item.png</file>
+    <file>gjots2-show-all.png</file>
+    <file>gjots2-new-page.png</file>
+    <file>gjots2-new-child.png</file>
+    <file>gjots2-merge-items.png</file>
   </qresource>
 </RCC>

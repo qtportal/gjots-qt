@@ -237,7 +237,7 @@
   <action name="actionQuit">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/all/images/gtk-quit.svg</normaloff>:/all/images/gtk-quit.svg</iconset>
+     <normaloff>:/all/gtk-quit.svg</normaloff>:/all/gtk-quit.svg</iconset>
    </property>
    <property name="text">
     <string>Quit</string>
@@ -395,7 +395,7 @@
   <action name="actionCreateNewItemTbr">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/gjots2-new-page.png</normaloff>:/actiontoolbar/images/gjots2-new-page.png</iconset>
+     <normaloff>:/actiontoolbar/gjots2-new-page.png</normaloff>:/actiontoolbar/gjots2-new-page.png</iconset>
    </property>
    <property name="text">
     <string>New Sibling</string>
@@ -407,7 +407,7 @@
   <action name="actionTlbNewChild">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/gjots2-new-child.png</normaloff>:/actiontoolbar/images/gjots2-new-child.png</iconset>
+     <normaloff>:/actiontoolbar/gjots2-new-child.png</normaloff>:/actiontoolbar/gjots2-new-child.png</iconset>
    </property>
    <property name="text">
     <string>New Child</string>
@@ -416,7 +416,7 @@
   <action name="actionTlbUp">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/go-up.svg</normaloff>:/actiontoolbar/images/go-up.svg</iconset>
+     <normaloff>:/actiontoolbar/go-up.svg</normaloff>:/actiontoolbar/go-up.svg</iconset>
    </property>
    <property name="text">
     <string>Up</string>
@@ -425,7 +425,7 @@
   <action name="actionTlbDown">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/go-down.svg</normaloff>:/actiontoolbar/images/go-down.svg</iconset>
+     <normaloff>:/actiontoolbar/go-down.svg</normaloff>:/actiontoolbar/go-down.svg</iconset>
    </property>
    <property name="text">
     <string>Down</string>
@@ -434,7 +434,7 @@
   <action name="actionTlbPromote">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/go-previous.svg</normaloff>:/actiontoolbar/images/go-previous.svg</iconset>
+     <normaloff>:/actiontoolbar/go-previous.svg</normaloff>:/actiontoolbar/go-previous.svg</iconset>
    </property>
    <property name="text">
     <string>Promote</string>
@@ -443,7 +443,7 @@
   <action name="actionTlbDemote">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/go-next.svg</normaloff>:/actiontoolbar/images/go-next.svg</iconset>
+     <normaloff>:/actiontoolbar/go-next.svg</normaloff>:/actiontoolbar/go-next.svg</iconset>
    </property>
    <property name="text">
     <string>Demote</string>
@@ -452,7 +452,7 @@
   <action name="actionSplitItem">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/gjots2-split-item.png</normaloff>:/actiontoolbar/images/gjots2-split-item.png</iconset>
+     <normaloff>:/actiontoolbar/gjots2-split-item.png</normaloff>:/actiontoolbar/gjots2-split-item.png</iconset>
    </property>
    <property name="text">
     <string>Split Item</string>
@@ -461,7 +461,7 @@
   <action name="actionTlbMergeItems">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/gjots2-merge-items.png</normaloff>:/actiontoolbar/images/gjots2-merge-items.png</iconset>
+     <normaloff>:/actiontoolbar/gjots2-merge-items.png</normaloff>:/actiontoolbar/gjots2-merge-items.png</iconset>
    </property>
    <property name="text">
     <string>Merge Items</string>
@@ -470,7 +470,7 @@
   <action name="actionTlbCollapse">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/gjots2-hide-all.png</normaloff>:/actiontoolbar/images/gjots2-hide-all.png</iconset>
+     <normaloff>:/actiontoolbar/gjots2-hide-all.png</normaloff>:/actiontoolbar/gjots2-hide-all.png</iconset>
    </property>
    <property name="text">
     <string>Collapse</string>
@@ -479,7 +479,7 @@
   <action name="actionTlbExpand">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/gjots2-show-all.png</normaloff>:/actiontoolbar/images/gjots2-show-all.png</iconset>
+     <normaloff>:/actiontoolbar/gjots2-show-all.png</normaloff>:/actiontoolbar/gjots2-show-all.png</iconset>
    </property>
    <property name="text">
     <string>Expand</string>
@@ -488,7 +488,7 @@
   <action name="actionTlbSortTree">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/actiontoolbar/images/sort_descending.svg</normaloff>:/actiontoolbar/images/sort_descending.svg</iconset>
+     <normaloff>:/actiontoolbar/sort_descending.svg</normaloff>:/actiontoolbar/sort_descending.svg</iconset>
    </property>
    <property name="text">
     <string>Sort tree</string>
@@ -497,7 +497,7 @@
   <action name="actionTlbSave">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/document-save.svg</normaloff>:/control/images/document-save.svg</iconset>
+     <normaloff>:/control/document-save.svg</normaloff>:/control/document-save.svg</iconset>
    </property>
    <property name="text">
     <string>Save</string>
@@ -506,7 +506,7 @@
   <action name="actionTlbPrint">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/document-print.svg</normaloff>:/control/images/document-print.svg</iconset>
+     <normaloff>:/control/document-print.svg</normaloff>:/control/document-print.svg</iconset>
    </property>
    <property name="text">
     <string>Print</string>
@@ -518,7 +518,7 @@
   <action name="actionTlbCut">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/edit-cut.svg</normaloff>:/control/images/edit-cut.svg</iconset>
+     <normaloff>:/control/edit-cut.svg</normaloff>:/control/edit-cut.svg</iconset>
    </property>
    <property name="text">
     <string>Cut</string>
@@ -527,7 +527,7 @@
   <action name="actionTlbPreferences">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/document-properties.svg</normaloff>:/control/images/document-properties.svg</iconset>
+     <normaloff>:/control/document-properties.svg</normaloff>:/control/document-properties.svg</iconset>
    </property>
    <property name="text">
     <string>Preferences</string>
@@ -539,7 +539,7 @@
   <action name="actionTlbCopy">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/edit-copy.svg</normaloff>:/control/images/edit-copy.svg</iconset>
+     <normaloff>:/control/edit-copy.svg</normaloff>:/control/edit-copy.svg</iconset>
    </property>
    <property name="text">
     <string>Copy</string>
@@ -548,7 +548,7 @@
   <action name="actionTlbPaste">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/edit-paste.svg</normaloff>:/control/images/edit-paste.svg</iconset>
+     <normaloff>:/control/edit-paste.svg</normaloff>:/control/edit-paste.svg</iconset>
    </property>
    <property name="text">
     <string>Paste</string>
@@ -557,7 +557,7 @@
   <action name="actionTlbWrap">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/view-refresh.svg</normaloff>:/control/images/view-refresh.svg</iconset>
+     <normaloff>:/control/view-refresh.svg</normaloff>:/control/view-refresh.svg</iconset>
    </property>
    <property name="text">
     <string>Wrap</string>
@@ -566,7 +566,7 @@
   <action name="actionTlbFind">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/edit-find.svg</normaloff>:/control/images/edit-find.svg</iconset>
+     <normaloff>:/control/edit-find.svg</normaloff>:/control/edit-find.svg</iconset>
    </property>
    <property name="text">
     <string>Find</string>
@@ -575,7 +575,7 @@
   <action name="actionTlbTime">
    <property name="icon">
     <iconset resource="gjots-qt.qrc">
-     <normaloff>:/control/images/timer.png</normaloff>:/control/images/timer.png</iconset>
+     <normaloff>:/control/timer.png</normaloff>:/control/timer.png</iconset>
    </property>
    <property name="text">
     <string>Time Stamp</string>
