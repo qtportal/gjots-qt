@@ -7,7 +7,7 @@ Module implementing MainWindow.
 #from PyQt4.QtGui import QMainWindow
 #from PyQt4.QtCore import pyqtSignature
 
-from Ui_mainwindow import Ui_MainWindow
+#from Ui_mainwindow import Ui_MainWindow
 
 class MainWindow(QMainWindow, Ui_MainWindow):
     """
